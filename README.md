@@ -14,7 +14,7 @@ Set the variables below including the maximum number of VMs you would like per t
 
 Schedule the script to run daily to keep the target VRAs balanced or run manually as required.  **MUST** be run less frequently than the resources report sample rate which **MUST** be configured to daily within site settings under reports on the target ZVM. (default is daily)
 
-# Prerequisities
+# Prerequisites
 ## Environment Requirements:
 - PowerShell 5.0+
 - ZVR 6.0u2 to 6.5uX for RecoveryVRABalance.ps1
